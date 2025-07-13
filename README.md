@@ -1,1 +1,0 @@
-# svrp-redirect
